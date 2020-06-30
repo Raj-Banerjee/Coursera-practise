@@ -6,5 +6,5 @@ def calculate():
   print("Welcome I can calculate the things for you")
   first=input("Enter the first No: ")
   second=input("Enter the second No: ")
-  
+  ask=input("Whhat do you want to do? ")
   
