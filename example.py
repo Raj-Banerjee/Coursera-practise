@@ -4,5 +4,7 @@ git_opeation()
 
 def calculate():
   print("Welcome I can calculate the things for you")
-  input("Enter the first No: ")
+  first=input("Enter the first No: ")
+  second=input("Enter the second No: ")
+  
   
